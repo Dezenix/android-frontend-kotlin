@@ -1,6 +1,7 @@
 <h1 align="center">Android Frontend Kotlin</h1>
 
-![frontend kotlin](https://user-images.githubusercontent.com/64855541/138315011-c6a1979d-c2b8-44db-9e32-71f7c996bdda.png)
+![5](https://user-images.githubusercontent.com/79747022/138428143-f04ec77e-cbf0-45a0-a3a9-0b5fe92182db.png)
+
 
 <div align="center">
 
@@ -17,7 +18,8 @@
 <a href="https://github.com/Dezenix/native-frontend-reactnative/pulls"><img src="https://img.shields.io/github/issues-pr/Dezenix/native-frontend-reactnative?color=brightgreen"></a>
 <a href="https://github.com/Dezenix/native-frontend-reactnative/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Dezenix/native-frontend-reactnative?color=0059b3"></a>
 <!-- <a href="https://github.com/Dezenix/native-frontend-reactnative/issues"><img src="https://img.shields.io/github/issues/Dezenix/native-frontend-reactnative?color=0059b3"></a> -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ## ⚒️ Contribution Guidelines
