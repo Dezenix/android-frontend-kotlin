@@ -1,7 +1,6 @@
 <h1 align="center">Android Frontend Kotlin</h1>
 
-![5](https://user-images.githubusercontent.com/79747022/138428143-f04ec77e-cbf0-45a0-a3a9-0b5fe92182db.png)
-
+![5](https://user-images.githubusercontent.com/79747022/151585134-c144f856-61bc-453e-89eb-8ade46002d87.png)
 
 <div align="center">
 
@@ -49,4 +48,5 @@ Please note that Open Source Design has a [Contributor Code of Conduct](https://
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
 
-![thankyou](https://user-images.githubusercontent.com/64855541/138306714-011473dd-9d07-41f7-9191-03f500565923.png)
+![t](https://user-images.githubusercontent.com/79747022/151585184-a11eceb1-8d20-4801-866d-892304df6c84.png)
+
